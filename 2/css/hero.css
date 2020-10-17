@@ -1,0 +1,19 @@
+header{
+	background-color: #0000ff;
+	padding: 40px;
+	text-align: center;
+
+
+}
+h1{
+	font-size: 90px;
+	color: white;
+}
+header img {
+	border-radius: 150pc;
+
+} 
+/*<header>
+			<img src="incercari/2/index.jpg" alt="paula">
+			<h1>Paula </h1>
+		</header>*/
